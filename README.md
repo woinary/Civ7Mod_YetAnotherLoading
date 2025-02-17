@@ -15,3 +15,8 @@ The following modifications will be made to the loading screen.
 ### after
 
 ![Loading screen after modification](https://github.com/user-attachments/assets/26ae15de-6992-429c-b3dd-3cff77232698)
+
+## System Requirements
+
+* Civ7 Version: 1.0.1 patch 3
+* platform: Windows
