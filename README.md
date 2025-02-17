@@ -10,8 +10,8 @@ The following modifications will be made to the loading screen.
 
 ### before
 
-![Loading screen before modification](https://github.com/woinary/Civ7Mod_YetAnotherLoading/issues/1#issue-2857902552)
+![Loading screen before modification](https://github.com/user-attachments/assets/19c8315d-af91-42f2-a3cd-4676a0e4131e)
 
 ### after
 
-![Loading screen after modification](https://github.com/woinary/Civ7Mod_YetAnotherLoading/issues/2#issue-2857911511)
+![Loading screen after modification](https://github.com/user-attachments/assets/26ae15de-6992-429c-b3dd-3cff77232698)
