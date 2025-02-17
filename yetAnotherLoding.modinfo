@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="wy_yet_another_loading" version="1" xmlns="ModInfo">
+    <Properties>
+        <Name>Yet Another Loading</Name>
+        <Description>
+           (1)Enlarge the font of the description on the loading screen. 
+           (2)Fixed an error in switching display content when screen size is less than 1440 pixels
+   and font scale is extra large.
+        </Description>
+        <Authors>Woinary</Authors>
+        <Package>Mod</Package>
+        <AffectsSavedGames>0</AffectsSavedGames>
+    </Properties>
+    <Dependencies>
+        <Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>
+    </Dependencies>
+    <ActionCriteria>
+        <Criteria id="always">
+            <AlwaysMet></AlwaysMet>
+        </Criteria>
+    </ActionCriteria>
+    <ActionGroups>
+        <ActionGroup id="game-loading-enlarge-fontsize-always" scope="game" criteria="always">
+            <Properties>
+                <LoadOrder>100</LoadOrder>
+            </Properties>
+            <Actions>
+                <ImportFiles>
+                    <Item>ui/loading/root-game-loading.css</Item>
+                </ImportFiles>
+            </Actions>
+        </ActionGroup>
+    </ActionGroups>
+</Mod>
